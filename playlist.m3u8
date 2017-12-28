@@ -36,7 +36,7 @@ https://kmklive-lh.akamaihd.net/i/rtv_live@137568/master.m3u8
 https://kmklive-lh.akamaihd.net/i/transtv_live@94476/master.m3u8
 
 #EXTINF:-1,group-title=Vidio, (Vidio) DW
-https://kmklive-lh.akamaihd.net/i/dwtv_live@137568/master.m3u8a
+https://kmklive-lh.akamaihd.net/i/dwtv_live@137568/master.m3u8
 
 #EXTINF:-1,group-title=Vidio, (Vidio) iNewsTV
 https://kmklive-lh.akamaihd.net/i/inewstv_live@94479/master.m3u8
