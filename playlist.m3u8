@@ -46,12 +46,3 @@ https://live-vidiostream.akamaized.net/live/smil:jaktv.smil/playlist.m3u8
 
 #EXTINF:-1,group-title=Vidio, (Vidio) RCTI
 https://kmklive-lh.akamaihd.net/i/rcti_live@577566/master.m3u8
-
-#EXTINF:-1,group-title=Metube.id, (Metube.id) 
-
-
-#EXTINF:-1,radio="true", 89.6 i-Radio FM
-http://streaming.mramedia.com:8000/iradio
-
-#EXTINF:-1,radio="true", 98.7 Gen FM
-http://streaming.sim-indonesia.com:8000/genfm
