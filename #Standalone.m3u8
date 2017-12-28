@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1,group-title=Vidio, (Vidio) SCTV
+https://live-vidiostream.akamaized.net/live/smil:sctv.smil/playlist.m3u8
+
+#EXTINF:-1,group-title=Vidio, (Vidio) Indosiar
+https://live-vidiostream.akamaized.net/live/smil:indosiar.smil/playlist.m3u8
+
+#EXTINF:-1,group-title=Vidio, (Vidio) OChannel
+https://live-vidiostream.akamaized.net/live/smil:ochannel.smil/playlist.m3u8
+
+#EXTINF:-1,group-title=Vidio, (Vidio) Trans 7
+https://live-vidiostream.akamaized.net/live/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:-1,group-title=Vidio, (Vidio) Global TV
+https://live-vidiostream.akamaized.net/live/smil:globaltv.smil/playlist.m3u8
+
+#EXTINF:-1,group-title=Vidio, (Vidio) Metro TV
+https://live-vidiostream.akamaized.net/live/smil:metrotv.smil/playlist.m3u8
+
+#EXTINF:-1,group-title=Vidio, (Vidio) tvone
+https://live-vidiostream.akamaized.net/live/smil:tvone.smil/playlist.m3u8
+
+#EXTINF:-1,group-title=Vidio, (Vidio) ANTV
+https://live-vidiostream.akamaized.net/live/smil:antv.smil/playlist.m3u8
+
+#EXTINF:-1,group-title=Vidio, (Vidio) MNC TV
+https://live-vidiostream.akamaized.net/live/smil:mnctv.smil/playlist.m3u8
+
+#EXTINF:-1,group-title=Vidio, (Vidio) Kompas TV
+https://live-vidiostream.akamaized.net/live/smil:kompastv.smil/playlist.m3u8
+
+#EXTINF:-1,group-title=Vidio, (Vidio) RTV
+https://live-vidiostream.akamaized.net/live/smil:rtv.smil/playlist.m3u8
+
+#EXTINF:-1,group-title=Vidio, (Vidio) Trans TV
+https://live-vidiostream.akamaized.net/live/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:-1,group-title=Vidio, (Vidio) DW
+https://live-vidiostream.akamaized.net/live/smil:dw.smil/playlist.m3u8
+
+#EXTINF:-1,group-title=Vidio, (Vidio) iNewsTV
+https://live-vidiostream.akamaized.net/live/smil:inewstv.smil/playlist.m3u8
+
+#EXTINF:-1,group-title=Vidio, (Vidio) Jak TV
+https://live-vidiostream.akamaized.net/live/smil:jaktv.smil/playlist.m3u8
+
+#EXTINF:-1,group-title=Vidio, (Vidio) RCTI
+https://kmklive-lh.akamaihd.net/i/rcti_live@577566/master.m3u8
+
+#EXTINF:-1,group-title=Metube.id, (Metube.id) 
+
+
+#EXTINF:-1,radio="true", 89.6 i-Radio FM
+http://streaming.mramedia.com:8000/iradio
+
+#EXTINF:-1,radio="true", 98.7 Gen FM
+http://streaming.sim-indonesia.com:8000/genfm
