@@ -1,54 +1,51 @@
 #EXTM3U
-#EXTINF:-1,group-title=Vidio, (Vidio) SCTV
+#EXTINF:-1, (Vidio) SCTV
 https://kmklive-lh.akamaihd.net/i/sctv_live@577566/master.m3u8
 
-#EXTINF:-1,group-title=Vidio, (Vidio) Indosiar
+#EXTINF:-1, (Vidio) Indosiar
 https://kmklive-lh.akamaihd.net/i/indosiar_live@577566/master.m3u8
 
-#EXTINF:-1,group-title=Vidio, (Vidio) Ochannel
+#EXTINF:-1, (Vidio) Ochannel
 https://kmklive-lh.akamaihd.net/i/ochannel_live@577566/master.m3u8
 
-#EXTINF:-1,group-title=Vidio, (Vidio) RCTI
+#EXTINF:-1, (Vidio) RCTI
 https://kmklive-lh.akamaihd.net/i/rcti_live@577566/master.m3u8
 
-#EXTINF:-1,group-title=Vidio, (Vidio) Trans 7
+#EXTINF:-1, (Vidio) Trans 7
 https://kmklive-lh.akamaihd.net/i/trans7_live@94476/master.m3u8
 
-#EXTINF:-1,group-title=Vidio, (Vidio) Global TV
+#EXTINF:-1, (Vidio) Global TV
 https://kmklive-lh.akamaihd.net/i/globaltv_live@577566/master.m3u8
 
-#EXTINF:-1,group-title=Vidio, (Vidio) Metro TV
+#EXTINF:-1, (Vidio) Metro TV
 https://kmklive-lh.akamaihd.net/i/metrotv_live@577566/master.m3u8
 
-#EXTINF:-1,group-title=Vidio, (Vidio) ANTV
+#EXTINF:-1, (Vidio) ANTV
 https://kmklive-lh.akamaihd.net/i/antv_live@577566/master.m3u8
 
-#EXTINF:-1,group-title=Vidio, (Vidio) TVOne
+#EXTINF:-1, (Vidio) TVOne
 https://kmklive-lh.akamaihd.net/i/tvone_live@577566/master.m3u8
 
-#EXTINF:-1,group-title=Vidio, (Vidio) MNC TV
+#EXTINF:-1, (Vidio) MNC TV
 https://kmklive-lh.akamaihd.net/i/mnctv_live@137568/master.m3u8
 
-#EXTINF:-1,group-title=Vidio, (Vidio) RTV
+#EXTINF:-1, (Vidio) RTV
 https://kmklive-lh.akamaihd.net/i/rtv_live@137568/master.m3u8
 
-#EXTINF:-1,group-title=Vidio, (Vidio) Trans TV
+#EXTINF:-1, (Vidio) Trans TV
 https://kmklive-lh.akamaihd.net/i/transtv_live@94476/master.m3u8
 
-#EXTINF:-1,group-title=Vidio, (Vidio) DW
+#EXTINF:-1, (Vidio) DW
 https://kmklive-lh.akamaihd.net/i/dwtv_live@137568/master.m3u8
 
-#EXTINF:-1,group-title=Vidio, (Vidio) iNewsTV
+#EXTINF:-1, (Vidio) iNewsTV
 https://kmklive-lh.akamaihd.net/i/inewstv_live@94479/master.m3u8
 
-#EXTINF:-1,group-title=Vidio, (Vidio) Jak TV
+#EXTINF:-1, (Vidio) Jak TV
 https://kmklive-lh.akamaihd.net/i/jaktv_live@94476/master.m3u8
 
-#EXTINF:-1,group-title=Vidio, (Vidio) Kompas TV
+#EXTINF:-1, (Vidio) Kompas TV
 https://kmklive-lh.akamaihd.net/i/kompastv_live@586951/master.m3u8
 
-#EXTINF:-1,group-title=Vidio, (Vidio) Jak TV
-https://live-vidiostream.akamaized.net/live/smil:jaktv.smil/playlist.m3u8
-
-#EXTINF:-1,group-title=Vidio, (Vidio) RCTI
-https://kmklive-lh.akamaihd.net/i/rcti_live@577566/master.m3u8
+#EXTINF:-1, (meTube.id) RCTI
+https://cdn-livetv2.metube.id/hls/rcti.m3u8
