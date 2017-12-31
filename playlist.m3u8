@@ -46,3 +46,6 @@ https://kmklive-lh.akamaihd.net/i/jaktv_live@94476/master.m3u8
 
 #EXTINF:-1, (Vidio) Kompas TV
 https://kmklive-lh.akamaihd.net/i/kompastv_live@586951/master.m3u8
+
+#EXTINF:-1, (meTube.id) RCTI
+https://cdn-livetv2.metube.id/hls/rcti.m3u8
