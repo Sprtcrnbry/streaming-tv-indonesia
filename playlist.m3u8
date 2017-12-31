@@ -46,11 +46,3 @@ https://kmklive-lh.akamaihd.net/i/jaktv_live@94476/master.m3u8
 
 #EXTINF:-1, (Vidio) Kompas TV
 https://kmklive-lh.akamaihd.net/i/kompastv_live@586951/master.m3u8
-#EXTINF:-1,group-title=Vidio, (Vidio) iNewsTV
-https://kmklive-lh.akamaihd.net/i/inewstv_live@94479/master.m3u8
-
-#EXTINF:-1,group-title=Vidio, (Vidio) Jak TV
-https://kmklive-lh.akamaihd.net/i/jaktv_live@94476/master.m3u8
-
-#EXTINF:-1,group-title=Vidio, (Vidio) Kompas TV
-https://kmklive-lh.akamaihd.net/i/kompastv_live@586951/master.m3u8
