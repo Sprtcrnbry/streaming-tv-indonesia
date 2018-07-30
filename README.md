@@ -8,3 +8,5 @@ Kalau ada masalah silahkan laporkan di tab Issues.
 ## List TV
 ### [Vidio](https://github.com/AGaming468/streaming-tv-indonesia/wiki/List-TV-(Vidio) "Wiki page")
 ### [meTube.id](https://github.com/AGaming468/streaming-tv-indonesia/wiki/List-TV-(meTube.id) "Another Wiki page")
+
+Maaf proyek ini sudah lama tidak dimaintain tapi akan saya lanjutkan developmentnya
